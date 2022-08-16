@@ -361,6 +361,26 @@
   background-color: white !important;
 }
 
+.s3 {
+  background: linear-gradient(350deg, #0108bd, #df33c0, #0a0f42);
+  background-size: 800% 800%;
+  -webkit-animation: AnimationName 25s ease infinite;
+  animation: AnimationName 25s ease infinite;
+}
+.s3 .name-title2 {
+  font-family: "Silkscreen", cursive;
+  color: rgb(29, 19, 30);
+}
+.s3 .name-text {
+  font-family: "Share Tech Mono", monospace;
+}
+.s3 .name-text__link {
+  color: rgb(29, 19, 30);
+}
+.s3 span {
+  background-color: white !important;
+}
+
 span {
   background-color: white !important;
 }
