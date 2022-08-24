@@ -16,7 +16,14 @@
         
     }
     .name-text__link{
-        color: rgb(29, 19, 30);
+        color: white;
+        transition: 0.5s;
+    }
+    .name-text__link:hover{
+        color: rgb(45, 36, 144);
+        font-size: 22px;
+        
+        transition: 0.5s;
     }
 
     span{

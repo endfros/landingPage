@@ -20,7 +20,12 @@ $glitch-bg-color: $bg-color;
     }
     .name-text__link{
         color: rgb(213, 164, 217);
+        transition: 0.5s;
     }
+    .name-text__link:hover{
+      font-size: 30px;
+      transition: 0.5s;
+  }
 
     span{
         background-color: white!important;

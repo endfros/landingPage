@@ -13,6 +13,11 @@
 }
 .s1 .name-text__link {
   color: rgb(213, 164, 217);
+  transition: 0.5s;
+}
+.s1 .name-text__link:hover {
+  font-size: 30px;
+  transition: 0.5s;
 }
 .s1 span {
   background-color: white !important;
@@ -355,7 +360,13 @@
   font-family: "Share Tech Mono", monospace;
 }
 .s2 .name-text__link {
-  color: rgb(29, 19, 30);
+  color: white;
+  transition: 0.5s;
+}
+.s2 .name-text__link:hover {
+  color: rgb(45, 36, 144);
+  font-size: 22px;
+  transition: 0.5s;
 }
 .s2 span {
   background-color: white !important;
@@ -375,7 +386,7 @@
   font-family: "Share Tech Mono", monospace;
 }
 .s3 .name-text__link {
-  color: rgb(29, 19, 30);
+  color: rgb(213, 164, 217);
 }
 .s3 span {
   background-color: white !important;
